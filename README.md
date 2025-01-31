@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arush-08
 - 👀 I’m interested in front-end developer
-- 🌱 I’m currently learning react js
+- 🌱 I have a knowledge about MERN Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me you can contact me
 - 😄 Pronouns: ...
