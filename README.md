@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @Arush-08
-- 👀 I’m interested in front-end developer
-- 🌱 I have a knowledge about MERN Stack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me you can contact me
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Arush-08/Arush-08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m Subhansh Shukla, a 2024 B.Tech (CSE) graduate, currently working as a Software Developer at Just Mind Work Pvt. Ltd. I specialize in building modern, scalable, and user-focused applications using React.js and React Native, with prior hands-on experience in the MERN stack. I’m passionate about writing clean, maintainable code, creating responsive UIs, and continuously learning new technologies to improve performance and user experience. I enjoy solving real-world problems through technology and contributing to impactful software solutions
